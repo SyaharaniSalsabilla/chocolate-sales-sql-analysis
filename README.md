@@ -13,7 +13,7 @@ This project analyzes chocolate sales data to uncover sales trends, top-performi
 - Rows: Sales transactions
 - Key Columns: Date, Product, Country, Sales Person, Amount, Boxes Shipped
 
-🧠 SQL Analysis (Tujuan + Insight)
+🧠 SQL Analysis
 🔹 Monthly Sales Trend
 Tujuan:
 Menganalisis tren penjualan dari waktu ke waktu untuk mengidentifikasi pola pertumbuhan dan musim penjualan.

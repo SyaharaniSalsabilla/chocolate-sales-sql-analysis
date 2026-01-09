@@ -1,23 +1,28 @@
 📌 Project Overview
+
 This project analyzes chocolate sales data to uncover sales trends, top-performing products, and regional contributions. SQL is used for data aggregation and business metric calculation, while Tableau is used for data visualization.
 
-
 🎯 Business Questions
+
 1. How does monthly sales performance trend over time?
+
 2. Which products generate the highest revenue?
+
 3. Which countries contribute most to total revenue?
+
 4. Who are the top-performing salespersons?
+
 5. Which products are the most efficient in terms of revenue per box?
+
 6. What is the overall business performance?
 
-
 🗂 Dataset Overview
+
 - Rows: Sales transactions
+
 - Key Columns: Date, Product, Country, Sales Person, Amount, Boxes Shipped
 
-
 🧠 SQL Analysis
-
 🔹 Monthly Sales Trend
 
 Tujuan:

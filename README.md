@@ -70,3 +70,18 @@ Memberikan gambaran singkat performa bisnis secara keseluruhan.
 
 Insight:
 KPI menunjukkan performa bisnis yang stabil dan dapat dijadikan baseline untuk target berikutnya.
+
+📊 Tableau Dashboard
+
+The dashboard presents key KPIs, sales trends, and performance metrics in a single view to support data-driven decision-making.
+
+<img width="1600" height="1800" alt="Chocolate Sales Dashboard 1" src="https://github.com/user-attachments/assets/22eb9f87-9f80-4b69-ad04-712bfc5e0b26" />
+
+
+💡 Key Recommendations
+
+- Prioritize high-revenue products in marketing campaigns.
+
+- Focus on top-performing countries for strategic growth.
+
+- Leverage top salespersons’ strategies as benchmarks.

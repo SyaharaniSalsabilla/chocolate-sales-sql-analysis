@@ -26,53 +26,53 @@ This project analyzes chocolate sales data to uncover sales trends, top-performi
 - Key Columns: Date, Product, Country, Sales Person, Amount, Boxes Shipped
 
 ## 🧠 SQL Analysis
-*  Monthly Sales Trend
+* Monthly Sales Trend
 
-Tujuan:
-Menganalisis tren penjualan dari waktu ke waktu untuk mengidentifikasi pola pertumbuhan dan musim penjualan.
-
-Insight:
-Penjualan menunjukkan tren meningkat pada beberapa bulan tertentu, mengindikasikan adanya pola musiman yang dapat dimanfaatkan untuk strategi promosi.
-
-*  Top Products by Revenue
-
-Tujuan:
-Mengidentifikasi produk dengan kontribusi revenue tertinggi.
+Objective:
+To analyze sales trends over time in order to identify growth patterns and seasonal fluctuations.
 
 Insight:
-Beberapa produk memberikan kontribusi signifikan terhadap total revenue, sehingga layak menjadi fokus utama pemasaran.
+Sales show an upward trend during specific months, indicating the presence of seasonal patterns that can be leveraged for targeted promotional strategies.
 
-*  Revenue by Country
+* Top Products by Revenue
 
-Tujuan:
-Menentukan market utama berdasarkan kontribusi revenue.
-
-Insight:
-Satu atau dua negara mendominasi total penjualan, menunjukkan potensi ekspansi atau optimalisasi market tersebut.
-
-*  Top Sales Person
-
-Tujuan:
-Mengevaluasi performa sales person untuk benchmarking dan reward.
+Objective:
+To identify products that contribute the highest share of total revenue.
 
 Insight:
-Perbedaan performa antar sales person cukup signifikan, sehingga dapat digunakan sebagai dasar evaluasi dan pelatihan.
+A small number of products account for a significant portion of total revenue, making them strong candidates for focused marketing and inventory prioritization.
 
-*  Product Efficiency
+* Revenue by Country
 
-Tujuan:
-Menilai efisiensi produk berdasarkan revenue per box.
-
-Insight:
-Produk dengan volume pengiriman kecil dapat menghasilkan revenue lebih tinggi per unit, menandakan potensi produk premium.
-
-*  KPI Summary
-
-Tujuan:
-Memberikan gambaran singkat performa bisnis secara keseluruhan.
+Objective:
+To determine key markets based on revenue contribution.
 
 Insight:
-KPI menunjukkan performa bisnis yang stabil dan dapat dijadikan baseline untuk target berikutnya.
+One or two countries dominate overall sales, highlighting opportunities for market expansion or further optimization in these regions.
+
+* Top Sales Person
+
+Objective:
+To evaluate individual sales performance for benchmarking and incentive planning.
+
+Insight:
+There are noticeable performance differences among sales personnel, which can serve as a basis for performance evaluation, training, and reward programs.
+
+* Product Efficiency
+
+Objective:
+To assess product efficiency by analyzing revenue generated per box shipped.
+
+Insight:
+Some products generate higher revenue per unit despite lower shipment volumes, indicating strong potential for premium positioning.
+
+* KPI Summary
+
+Objective:
+To provide a high-level overview of overall business performance.
+
+Insight:
+Key performance indicators reflect stable business performance and can be used as a baseline for setting future targets.
 
 ## 📊 Tableau Dashboard
 

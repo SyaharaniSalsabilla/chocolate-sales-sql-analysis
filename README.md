@@ -1,8 +1,11 @@
-📌 Project Overview
+# Chocolate Sales SQL Analysis
+
+
+## 📌 Project Overview
 
 This project analyzes chocolate sales data to uncover sales trends, top-performing products, and regional contributions. SQL is used for data aggregation and business metric calculation, while Tableau is used for data visualization.
 
-🎯 Business Questions
+## 🎯 Business Questions
 
 1. How does monthly sales performance trend over time?
 
@@ -16,14 +19,14 @@ This project analyzes chocolate sales data to uncover sales trends, top-performi
 
 6. What is the overall business performance?
 
-🗂 Dataset Overview
+## 🗂 Dataset Overview
 
 - Rows: Sales transactions
 
 - Key Columns: Date, Product, Country, Sales Person, Amount, Boxes Shipped
 
-🧠 SQL Analysis
-🔹 Monthly Sales Trend
+## 🧠 SQL Analysis
+* 🔹 Monthly Sales Trend
 
 Tujuan:
 Menganalisis tren penjualan dari waktu ke waktu untuk mengidentifikasi pola pertumbuhan dan musim penjualan.
@@ -31,7 +34,7 @@ Menganalisis tren penjualan dari waktu ke waktu untuk mengidentifikasi pola pert
 Insight:
 Penjualan menunjukkan tren meningkat pada beberapa bulan tertentu, mengindikasikan adanya pola musiman yang dapat dimanfaatkan untuk strategi promosi.
 
-🔹 Top Products by Revenue
+* 🔹 Top Products by Revenue
 
 Tujuan:
 Mengidentifikasi produk dengan kontribusi revenue tertinggi.
@@ -39,7 +42,7 @@ Mengidentifikasi produk dengan kontribusi revenue tertinggi.
 Insight:
 Beberapa produk memberikan kontribusi signifikan terhadap total revenue, sehingga layak menjadi fokus utama pemasaran.
 
-🔹 Revenue by Country
+* 🔹 Revenue by Country
 
 Tujuan:
 Menentukan market utama berdasarkan kontribusi revenue.
@@ -47,7 +50,7 @@ Menentukan market utama berdasarkan kontribusi revenue.
 Insight:
 Satu atau dua negara mendominasi total penjualan, menunjukkan potensi ekspansi atau optimalisasi market tersebut.
 
-🔹 Top Sales Person
+* 🔹 Top Sales Person
 
 Tujuan:
 Mengevaluasi performa sales person untuk benchmarking dan reward.
@@ -55,7 +58,7 @@ Mengevaluasi performa sales person untuk benchmarking dan reward.
 Insight:
 Perbedaan performa antar sales person cukup signifikan, sehingga dapat digunakan sebagai dasar evaluasi dan pelatihan.
 
-🔹 Product Efficiency
+* 🔹 Product Efficiency
 
 Tujuan:
 Menilai efisiensi produk berdasarkan revenue per box.
@@ -63,7 +66,7 @@ Menilai efisiensi produk berdasarkan revenue per box.
 Insight:
 Produk dengan volume pengiriman kecil dapat menghasilkan revenue lebih tinggi per unit, menandakan potensi produk premium.
 
-🔹 KPI Summary
+* 🔹 KPI Summary
 
 Tujuan:
 Memberikan gambaran singkat performa bisnis secara keseluruhan.
@@ -71,17 +74,17 @@ Memberikan gambaran singkat performa bisnis secara keseluruhan.
 Insight:
 KPI menunjukkan performa bisnis yang stabil dan dapat dijadikan baseline untuk target berikutnya.
 
-📊 Tableau Dashboard
+## 📊 Tableau Dashboard
 
 The dashboard presents key KPIs, sales trends, and performance metrics in a single view to support data-driven decision-making.
 
 <img width="1600" height="1800" alt="Chocolate Sales Dashboard 1" src="https://github.com/user-attachments/assets/22eb9f87-9f80-4b69-ad04-712bfc5e0b26" />
 
 
-💡 Key Recommendations
+## 💡 Key Recommendations
 
-- Prioritize high-revenue products in marketing campaigns.
+* Prioritize high-revenue products in marketing campaigns.
 
-- Focus on top-performing countries for strategic growth.
+* Focus on top-performing countries for strategic growth.
 
-- Leverage top salespersons’ strategies as benchmarks.
+* Leverage top salespersons’ strategies as benchmarks.

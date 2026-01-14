@@ -26,7 +26,7 @@ This project analyzes chocolate sales data to uncover sales trends, top-performi
 - Key Columns: Date, Product, Country, Sales Person, Amount, Boxes Shipped
 
 ## 🧠 SQL Analysis
-* 🔹 Monthly Sales Trend
+*  Monthly Sales Trend
 
 Tujuan:
 Menganalisis tren penjualan dari waktu ke waktu untuk mengidentifikasi pola pertumbuhan dan musim penjualan.
@@ -34,7 +34,7 @@ Menganalisis tren penjualan dari waktu ke waktu untuk mengidentifikasi pola pert
 Insight:
 Penjualan menunjukkan tren meningkat pada beberapa bulan tertentu, mengindikasikan adanya pola musiman yang dapat dimanfaatkan untuk strategi promosi.
 
-* 🔹 Top Products by Revenue
+*  Top Products by Revenue
 
 Tujuan:
 Mengidentifikasi produk dengan kontribusi revenue tertinggi.
@@ -42,7 +42,7 @@ Mengidentifikasi produk dengan kontribusi revenue tertinggi.
 Insight:
 Beberapa produk memberikan kontribusi signifikan terhadap total revenue, sehingga layak menjadi fokus utama pemasaran.
 
-* 🔹 Revenue by Country
+*  Revenue by Country
 
 Tujuan:
 Menentukan market utama berdasarkan kontribusi revenue.
@@ -50,7 +50,7 @@ Menentukan market utama berdasarkan kontribusi revenue.
 Insight:
 Satu atau dua negara mendominasi total penjualan, menunjukkan potensi ekspansi atau optimalisasi market tersebut.
 
-* 🔹 Top Sales Person
+*  Top Sales Person
 
 Tujuan:
 Mengevaluasi performa sales person untuk benchmarking dan reward.
@@ -58,7 +58,7 @@ Mengevaluasi performa sales person untuk benchmarking dan reward.
 Insight:
 Perbedaan performa antar sales person cukup signifikan, sehingga dapat digunakan sebagai dasar evaluasi dan pelatihan.
 
-* 🔹 Product Efficiency
+*  Product Efficiency
 
 Tujuan:
 Menilai efisiensi produk berdasarkan revenue per box.
@@ -66,7 +66,7 @@ Menilai efisiensi produk berdasarkan revenue per box.
 Insight:
 Produk dengan volume pengiriman kecil dapat menghasilkan revenue lebih tinggi per unit, menandakan potensi produk premium.
 
-* 🔹 KPI Summary
+*  KPI Summary
 
 Tujuan:
 Memberikan gambaran singkat performa bisnis secara keseluruhan.

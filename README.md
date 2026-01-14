@@ -21,9 +21,19 @@ This project analyzes chocolate sales data to uncover sales trends, top-performi
 
 ## 🗂 Dataset Overview
 
-- Rows: Sales transactions
+The dataset used in this project is sourced from Kaggle:
 
-- Key Columns: Date, Product, Country, Sales Person, Amount, Boxes Shipped
+[Chocolate Sales Dataset – Kaggle](https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales)
+
+The dataset includes transactional sales data such as:
+- Product name
+- Country
+- Sales representative
+- Sales date
+- Revenue amount
+- Boxes shipped
+
+The dataset was used for SQL-based analysis and data visualization in Tableau.
 
 ## 🧠 SQL Analysis
 * Monthly Sales Trend
@@ -78,7 +88,7 @@ Key performance indicators reflect stable business performance and can be used a
 
 The dashboard presents key KPIs, sales trends, and performance metrics in a single view to support data-driven decision-making.
 
-<img width="1600" height="1800" alt="Chocolate Sales Dashboard 1" src="https://github.com/user-attachments/assets/22eb9f87-9f80-4b69-ad04-712bfc5e0b26" />
+<img width="1600" height="1800" alt="Chocolate Sales Dashboard" src="https://github.com/user-attachments/assets/71944862-9e37-4495-8125-426a49595b42" />
 
 
 ## 💡 Key Recommendations
